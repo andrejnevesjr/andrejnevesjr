@@ -3,11 +3,18 @@
 I'm a developer with extensive knowledge in data engineering and an enthusiast in the web development field.
 <br>
 
-## <img width="150" alt="about me" src="https://github.com/andrejnevesjr/andrejnevesjr/blob/assets/about-me.jpg">
+## <img width="150" alt="About Me" src="https://github.com/andrejnevesjr/andrejnevesjr/blob/main/assets/about-me.jpg">
 
-I've started my career working with BI and after some time prepared myself to be ready to the evolution that was started by the Big Data era. Nevertheless, I'm looking forward to finding new adventures and challenges mainly in Full Stack development.
-
-<img align="left" width="450" height="260" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+<table border="0">
+  <td>
+    <img  src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+  </td>
+  <td>
+  <h3>
+  I've started my career working with BI and after some time prepared myself to be ready to the evolution that was started by the Big Data era. Nevertheless, I'm looking forward to finding new adventures and challenges mainly in Full Stack development.
+  </h3>
+  </td>
+</table>
 
 ```javascript
 const express = require("express");
@@ -29,7 +36,7 @@ app.listen(port, () => {
   <img src="https://github.com/andrejnevesjr/andrejnevesjr/blob/main/assets/html5-plain.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/andrejnevesjr/andrejnevesjr/blob/main/assets/css3-plain.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/andrejnevesjr/andrejnevesjr/blob/main/assets/javascript-plain.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/andrejnevesjr/andrejnevesjr/blob/main/assets/typescript-original.svg" width="50" height="40" 
+  <img src="https://github.com/andrejnevesjr/andrejnevesjr/blob/main/assets/typescript-original.svg" width="50" height="40"
   align="center"/>
   <img src="https://github.com/andrejnevesjr/andrejnevesjr/blob/main/assets/nodejs-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/andrejnevesjr/andrejnevesjr/blob/main/assets/express-original.svg" width="50" height="40" align="center"/>
@@ -52,3 +59,7 @@ app.listen(port, () => {
 <br>
 
 ![Snake animation](https://github.com/andrejnevesjr/andrejnevesjr/blob/output/github-contribution-grid-snake.svg)
+
+```
+
+```
