@@ -45,6 +45,7 @@ app.listen(port, () => {
   <img src="https://github.com/andrejnevesjr/andrejnevesjr/blob/main/assets/mysql-plain.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/andrejnevesjr/andrejnevesjr/blob/main/assets/mongodb-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/andrejnevesjr/andrejnevesjr/blob/main/assets/postgresql-original.svg" width="50" height="40" align="center"/>
+    <img src="https://github.com/andrejnevesjr/andrejnevesjr/blob/main/assets/python.svg" width="50" height="40" align="center"/>
 </div><br>
 
 <a href="https://github.com/andrejnevesjr">
