@@ -7,7 +7,7 @@ I'm a developer with extensive knowledge in data engineering and an enthusiast i
 
 <table border="0">
   <td>
-    <img  src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+    ![alt-text](https://github.com/andrejnevesjr/andrejnevesjr/blob/main/assets/coding.gif)
   </td>
   <td>
   <h3>
