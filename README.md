@@ -7,7 +7,7 @@ I'm a developer with extensive knowledge in data engineering and an enthusiast i
 
 <table border="0">
   <td>
-    ![alt-text](https://github.com/andrejnevesjr/andrejnevesjr/blob/main/assets/coding.gif)
+    ![](https://github.com/andrejnevesjr/andrejnevesjr/blob/main/assets/coding.gif)
   </td>
   <td>
   <h3>
