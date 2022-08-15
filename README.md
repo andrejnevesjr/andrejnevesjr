@@ -1,9 +1,9 @@
-### Hi There! 👋
+### Welcome!
 
 I'm a developer with extensive knowledge in data engineering and an enthusiast in the web development field.
 <br>
 
-## <img width="150" alt="About Me" src="https://github.com/andrejnevesjr/andrejnevesjr/blob/main/assets/about-me.jpg">
+## **About Me**
 
 <table border="0">
   <td>
@@ -59,6 +59,10 @@ app.listen(port, () => {
 <br>
 
 ![Snake animation](https://github.com/andrejnevesjr/andrejnevesjr/blob/output/github-contribution-grid-snake.svg)
+
+```
+
+```
 
 ```
 
