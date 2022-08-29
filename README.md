@@ -48,11 +48,9 @@ app.listen(port, () => {
     <img src="https://github.com/andrejnevesjr/andrejnevesjr/blob/main/assets/python.svg" width="50" height="40" align="center"/>
 </div><br>
 
-[![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrejnevesjr)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/andrejnevesjr">
-
-</a>
+![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrejnevesjr&show_icons=true&theme=radical)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrejnevesjr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## **Vamos nos Conectar:**
 
