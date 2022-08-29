@@ -49,7 +49,7 @@ app.listen(port, () => {
 </div><br>
 
 <a href="https://github.com/andrejnevesjr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrejnevesjr&theme=dracula&hide_langs_below=1" />
+  [![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrejnevesjr)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 ## **Vamos nos Conectar:**
