@@ -61,10 +61,3 @@ app.listen(port, () => {
 
 ![Snake animation](https://github.com/andrejnevesjr/andrejnevesjr/blob/output/github-contribution-grid-snake.svg)
 
-```
-
-```
-
-```
-
-```
