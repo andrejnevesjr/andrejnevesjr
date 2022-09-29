@@ -50,7 +50,7 @@ app.listen(port, () => {
 
 ![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrejnevesjr&show_icons=true&theme=radical)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrejnevesjr&hide=cython,c%2B%2B,c,jupyter%20notebook,powershell,fortran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrejnevesjr&hide=cython,c%2B%2B,c,jupyter%20notebook,powershell,fortran,smarty)](https://github.com/anuraghazra/github-readme-stats)
 
 ## **Vamos nos Conectar:**
 
