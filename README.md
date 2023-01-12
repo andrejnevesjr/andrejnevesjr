@@ -48,9 +48,9 @@ app.listen(port, () => {
     <img src="https://github.com/andrejnevesjr/andrejnevesjr/blob/main/assets/python.svg" width="50" height="40" align="center"/>
 </div><br>
 
-![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrejnevesjr&show_icons=true&theme=radical)
+![Andre's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andrejnevesjr&show_icons=true&theme=radical)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrejnevesjr&langs_count=8&hide=cython,c%2B%2B,c,jupyter%20notebook,powershell,fortran,smarty,dockerfile,shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andrejnevesjr&langs_count=8&hide=cython,c%2B%2B,c,jupyter%20notebook,powershell,fortran,smarty,dockerfile,shell)]
 
 ## **Vamos nos Conectar:**
 
@@ -60,4 +60,3 @@ app.listen(port, () => {
 <br>
 
 ![Snake animation](https://github.com/andrejnevesjr/andrejnevesjr/blob/output/github-contribution-grid-snake.svg)
-
