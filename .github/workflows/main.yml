@@ -1,23 +1,26 @@
-name: Generate Datas
+name: Generate Profile Contributions
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "0 0 * * 0"  # Weekly on Sunday
   workflow_dispatch:
 
 jobs:
   build:
-    name: Jobs to update datas
+    name: Update GitHub Profile
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - uses: actions/checkout@v3
+      
+      - name: GitHub Contribution Grid Snake Dark Mode
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: andrejnevesjr
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
