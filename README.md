@@ -12,11 +12,16 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andrejnevesjr/andrejnevesjr/main/assets/coding.gif" width="400px" alt="Coding Animation"/>
-</div>
-
-With **18+ years** at the intersection of **data, technology, and innovation**, I've evolved from solving complex engineering puzzles to empowering the people who build them. I lead data initiatives as a **Principal Analytics Engineer and AI Lead**, championing transformative approaches to data governance, analytics architecture, and AI-driven workflows.
+<table>
+  <tr>
+    <td width="280" valign="top">
+      <img src="https://raw.githubusercontent.com/andrejnevesjr/andrejnevesjr/main/assets/coding.gif" width="240" alt="Coding Animation"/>
+    </td>
+    <td valign="top">
+      With <b>18+ years</b> at the intersection of <b>data, technology, and innovation</b>, I've evolved from solving complex engineering puzzles to empowering the people who build them. I lead data initiatives as a <b>Principal Analytics Engineer and AI Lead</b>, championing transformative approaches to data governance, analytics architecture, and AI-driven workflows.
+    </td>
+  </tr>
+</table>
 
 ### 🚀 How I Lead & Deliver Value
 
