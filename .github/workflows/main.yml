@@ -2,7 +2,7 @@ name: Generate Profile Contributions
 
 on:
   schedule:
-    - cron: "0 0 * * 0"  # Weekly on Sunday
+    - cron: "0 0 * * 6"  # Weekly on Saturday
   workflow_dispatch:
 
 jobs:
