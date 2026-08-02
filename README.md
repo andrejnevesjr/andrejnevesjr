@@ -135,12 +135,6 @@ print(analytics.mentor_team("Analytics Engineering"))
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/andrejnevesjr">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrejnevesjr&theme=radical" alt="Profile Summary"/>
-  </a>
-</div>
-
 ---
 
 ## 🎯 Expertise & Focus Areas
